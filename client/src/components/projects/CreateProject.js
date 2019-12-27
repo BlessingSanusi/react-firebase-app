@@ -63,7 +63,7 @@ const mapStateToProps = (state) => {
     return{
         auth: state.firebase.auth
     }
-}
+} 
 
 const mapDispatchToProps = (dispatch) => {
     return{

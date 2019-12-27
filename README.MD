@@ -1,6 +1,6 @@
-## Full Stack Application
+## Project Management App
 
-### Project Management Web Application
+### A simple Project Management Web Application with Firebase
 
 ### Tools
 
@@ -13,3 +13,6 @@
     * Firestore Database
     * Firebase Auth
     * Cloud Functions
+
+    Other Dependencies
+    * Momentjs
