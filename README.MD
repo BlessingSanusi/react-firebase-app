@@ -2,6 +2,8 @@
 
 ### A simple Project Management Web Application with Firebase
 
+[App Image](public/images/project-manager.png)
+
 ### Tools
 
     Front End
